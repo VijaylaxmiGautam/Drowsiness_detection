@@ -1,7 +1,8 @@
 # Drowsiness_detection
  
 # Features of Drowsiness detection
-1.The objective of this intermediate Python project is to build a drowsiness detection system that will detect that a person’s eyes are closed for a few seconds.
+1.This project focuses on a drowsy detection Deep learning Model for prevention of road accidents because of this issue.
+2.The objective of this  project is to build a drowsiness detection system that will detect that a person’s eyes are closed for a few seconds.
 
 
 # About the Project
