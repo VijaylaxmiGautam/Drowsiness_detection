@@ -33,7 +33,7 @@ The approach we will be using for this Python project is as follows :
  Automatic monitoring system.
  It avoids potential human errors.
  
- #How to Run this Project Locally
+ # How to Run this Project Locally
  
  #Clone the given repository
  https://github.com/VijaylaxmiGautam/Drowsiness_detection.git
