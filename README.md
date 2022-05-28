@@ -19,10 +19,10 @@ The approach we will be using for this Python project is as follows :
 
 # Deployment
  Here's the link of the Source Code of our main file
+ https://github.com/VijaylaxmiGautam/Drowsiness_detection/blob/main/Drowsiness_Detection.ipynb
  
  
- 
- Video Demonstration
+# Video Demonstration
  Here's the link to the video demonstration of
 
 
