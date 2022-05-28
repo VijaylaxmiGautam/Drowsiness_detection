@@ -28,24 +28,12 @@ The approach we will be using for this Python project is as follows :
 
 
 
-
-#libraries and dependencies
- numpy as np # linear algebra
- pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
- os
- cv2
- from sklearn.preprocessing import LabelBinarizer
- from sklearn.model_selection import train_test_split
- from tensorflow.keras.layers import Input, Lambda, Dense, Flatten, Conv2D, MaxPooling2D, Dropout
- from tensorflow.keras.models import Model
- from tensorflow.keras.models import Sequential
- from keras.preprocessing.image import ImageDataGenerator
- tensorflow as tf
- keras
- matplotlib.pyplot as plt
-
-
 # ADVANTAGES:
  It avoids the accidents while driving.
  Automatic monitoring system.
  It avoids potential human errors.
+ 
+ #How to Run this Project Locally
+ 
+ Clone the given repository
+ 
