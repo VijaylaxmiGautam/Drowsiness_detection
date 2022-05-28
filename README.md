@@ -18,16 +18,16 @@ The approach we will be using for this Python project is as follows :
 *Link to the Dataset:* https://drive.google.com/drive/folders/1qDPWOi0I8F1aiu3eg-mSLr2jP6a6EtoZ?usp=sharing
 
 # Deployment
- Here's the link of the Source Code of our main file
- https://github.com/VijaylaxmiGautam/Drowsiness_detection/blob/main/Drowsiness_Detection.ipynb
+  Here's the link of the Source Code of our main file
+  https://github.com/VijaylaxmiGautam/Drowsiness_detection/blob/main/Drowsiness_Detection.ipynb
  
  
 # Video Demonstration
- Here's the link to the video demonstration of
+  Here's the link to the video demonstration of
 
 
 
 # ADVANTAGES:
-It avoids the accidents while driving.
-Automatic monitoring system.
-It avoids potential human errors.
+ It avoids the accidents while driving.
+ Automatic monitoring system.
+ It avoids potential human errors.
