@@ -35,5 +35,11 @@ The approach we will be using for this Python project is as follows :
  
  #How to Run this Project Locally
  
- Clone the given repository
+ #Clone the given repository
+ https://github.com/VijaylaxmiGautam/Drowsiness_detection.git
+ 
+ #Run the command npm install in your terminal in the root directory of the project to install the various dependencies
+ https://docs.npmjs.com/cli/v6/commands/npm-install
+ 
+ 
  
