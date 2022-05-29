@@ -66,44 +66,72 @@ We work in “Sprints” where each sprint lasts for a week or two, and focus on
 Here are the sprints I had set for myself for the 4 week journey 😄
 # WEEK 1 ( INITIAL DAYS )
  1.Learning more about APIs
+ 
  2.Researching about how image processing work ; what technologies / APIs / SDKs are used
+ 
  3.Deciding the Tech Stack and finding suitable resources
 
 # WEEK 2 ( BUILD PHASE )
  1.Designing my model (using OpenCV,KERAS,tensorflow)
+ 
  2.Setting up the server and adding the functionality for eyes detection
+ 
  3.Styling and Testing
 
 # WEEK 3 ( BUILD PHASE )
  Adding Basic libraries and dependencies
  1.from google.colab import drive
      drive.mount('/content/drive') 
+     
  2.import pandas as pd
+ 
  3.import os
+ 
  4.import cv2
+ 
  5.from sklearn.preprocessing import LabelBinarizer 
+ 
  6.from sklearn.model_selection import train_test_split 
+ 
  7.from tensorflow.keras.layers import Input
+ 
  8.from tensorflow.keras.layers import Dense
+ 
  9.from tensorflow.keras.layers import Lambdas
- 10.from tensorflow.keras.layers import Flatten 
+ 
+ 10.from tensorflow.keras.layers import Flatten
+ 
  11.from tensorflow.keras.layers import Convo2D
+ 
  12.from tensorflow.keras.layers import MaxPooling2D
+ 
  13.from tensorflow.keras.layers import Dropout
+ 
  14.from tensorflow.keras.models import Model
+ 
  15.from tensorflow.keras.models import Sequential
+ 
  16.from keras.preprocessing.image import ImageDataGenerator
+ 
  17.import tensorflow as tf
+ 
  18.import keras
+ 
  19.import matplotlib.pyplot as plt
 
 # WEEK 4 ( X-FACTOR TIME )
  1.Examining and planning useful features for Drawsiness detection
+ 
  2.Converted the image to image array and reshape the array accordingly.
+ 
  3.Binarize the result values using a threshold using Label Binarization.
+ 
  4.Using train test Split,Splited the given data into training and testing data to make our model with test size as 30% and train size as 70%.
+ 
  5.Then created the train and test data by using horizontal flip and rotation and will now fit this data to our model.
+ 
  6.Making the product Responsive and Improving UI/UX
+ 
  7.Attaching dataset https://drive.google.com/drive/folders/1qDPWOi0I8F1aiu3eg-mSLr2jP6a6EtoZ?usp=sharing
 
  8.Working on making Video Demo & updating README.md
