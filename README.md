@@ -65,9 +65,9 @@ We work in “Sprints” where each sprint lasts for a week or two, and focus on
 
 Here are the sprints I had set for myself for the 4 week journey 😄
 # WEEK 1 ( INITIAL DAYS )
-Learning more about APIs
-Researching about how image processing work ; what technologies / APIs / SDKs are used
-Deciding the Tech Stack and finding suitable resources
+*Learning more about APIs
+*Researching about how image processing work ; what technologies / APIs / SDKs are used
+*Deciding the Tech Stack and finding suitable resources
 
 # WEEK 2 ( BUILD PHASE )
 Designing my model (using OpenCV,KERAS,tensorflow)
