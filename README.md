@@ -49,9 +49,6 @@ The approach we will be using for this Python project is as follows :
  
  
  
-# Extension-:
- We can use live video capturing to feed photo frames to the model.if the Yawning and closing of eyes happens in short period of time,then the drowsiness level of the   perso is high.We can set bars as per experiments and data to see if the person is drowsy above the safe level.
- 
 # WORKING
 
 Now initially we will remove the excess image part and will focus only on eyes and face.
@@ -135,4 +132,10 @@ Here are the sprints I had set for myself for the 4 week journey 😄
  7.Attaching dataset https://drive.google.com/drive/folders/1qDPWOi0I8F1aiu3eg-mSLr2jP6a6EtoZ?usp=sharing
 
  8.Working on making Video Demo & updating README.md
+ 
+ 
+ # Extension-:
+ We can use live video capturing to feed photo frames to the model.if the Yawning and closing of eyes happens in short period of time,then the drowsiness level of the   perso is high.We can set bars as per experiments and data to see if the person is drowsy above the safe level.
+ 
+ 
 
