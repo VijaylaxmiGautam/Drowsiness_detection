@@ -137,5 +137,7 @@ Here are the sprints I had set for myself for the 4 week journey 😄
  # Extension-:
  We can use live video capturing to feed photo frames to the model.if the Yawning and closing of eyes happens in short period of time,then the drowsiness level of the   perso is high.We can set bars as per experiments and data to see if the person is drowsy above the safe level.
  
+
+
  
 
