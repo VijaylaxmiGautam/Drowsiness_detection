@@ -26,6 +26,8 @@ The approach we will be using for this Python project is as follows :
 
 #powerpoint presentation
 *link of presentation:*https://docs.google.com/presentation/d/106IQdvdQdGzG1WTiI7jaPyZaEanUcoOK/edit#slide=id.p1
+#output screenshots 
+*link of folder*https://drive.google.com/drive/folders/11VQFDoc5qWzTtNyggVOUjGnbcGUxQ-L2
 
 # Deployment
   Here's the link of the Source Code of our main file
