@@ -17,7 +17,9 @@ The approach we will be using for this Python project is as follows :
 – Detect the eyes from ROI and feed it to the classifier.
 – Classifier will categorize whether eyes are open or closed.
 – Calculate score to check whether the person is drowsy.
- 
+
+
+
  
 # Dataset
 *Link to the Dataset:* https://drive.google.com/drive/folders/1qDPWOi0I8F1aiu3eg-mSLr2jP6a6EtoZ?usp=sharing
