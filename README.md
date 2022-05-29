@@ -24,6 +24,9 @@ The approach we will be using for this Python project is as follows :
 # Dataset
 *Link to the Dataset:* https://drive.google.com/drive/folders/1qDPWOi0I8F1aiu3eg-mSLr2jP6a6EtoZ?usp=sharing
 
+#powerpoint presentation
+*link of presentation:*https://docs.google.com/presentation/d/106IQdvdQdGzG1WTiI7jaPyZaEanUcoOK/edit#slide=id.p1
+
 # Deployment
   Here's the link of the Source Code of our main file
   https://github.com/VijaylaxmiGautam/Drowsiness_detection/blob/main/Drowsiness_Detection.ipynb
